@@ -24,12 +24,17 @@ const linking: LinkingOptions<RootStackParamList> = {
             screens: {
               TabTwoScreen: 'two',
             },
+      
           },
+
         },
       },
       Modal: 'modal',
       NotFound: '*',
-      Bonjour : 'bonjour',
+      Home : 'home',
+      Recettes : 'recettes',
+      Restaurants : 'restaurant'
+     
     },
   },
 };
